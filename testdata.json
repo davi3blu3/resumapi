@@ -1,0 +1,94 @@
+{
+    "_id": 000934723,
+    "username": "#",
+    "header": {
+        "fullName": "#",
+        "address": "#",
+        "phone": "#",
+        "email": "#",
+        "portfolio": "#"
+    },
+    "summary": {
+        "headline": "#",
+        "text": "#"
+    },
+    "skills": {
+        "headline": "#",
+        "list": [
+            "#",
+            "#",
+            "#",
+            "#"
+        ]
+    },
+    "experience": {
+        "headline": "#",
+        "list": [
+            {
+                "jobTitle": "#",
+                "company": "#",
+                "startDate": "#",
+                "endDate": "#",
+                "bullets": [
+                    "#",
+                    "#",
+                    "#"
+                ]
+            },
+            {
+                "jobTitle": "#",
+                "company": "#",
+                "startDate": "#",
+                "endDate": "#",
+                "bullets": [
+                    "#",
+                    "#",
+                    "#"
+                ]
+            },
+            {
+                "jobTitle": "#",
+                "company": "#",
+                "startDate": "#",
+                "endDate": "#",
+                "bullets": [
+                    "#",
+                    "#",
+                    "#"
+                ]
+            }
+        ]
+    },
+    "education": {
+        "headline": "#",
+        "list": [
+            {
+                "schoolName": "#",
+                "degree": "#",
+                "major": "#",
+                "endDate": "#"
+            },
+            {
+                "schoolName": "#",
+                "degree": "#",
+                "major": "#",
+                "endDate": "#"
+            }
+        ]
+    },
+    "training": {
+        "headline": "certifications",
+        "list": [
+            {
+                "certName": "#",
+                "endDate": "#",
+                "description": "#"
+            },
+            {
+                "certName": "#",
+                "endDate": "#",
+                "description": "#"
+            }
+        ]
+    }
+}
