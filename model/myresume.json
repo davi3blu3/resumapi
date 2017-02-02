@@ -1,0 +1,103 @@
+{
+    "username": "davi3blu3",
+    "header": {
+        "fullName": "Dave Harned",
+        "address": "Nashville, TN",
+        "phone": "615-545-1478",
+        "email": "dave@daveharned.com",
+        "portfolio": "daveharned.com",
+        "github": "github.com/davi3blu3"
+    },
+    "summary": {
+        "headline": "",
+        "text": ""
+    },
+    "skills": {
+        "headline": "Technical Skills",
+        "list": [
+            "JavaScript", "jQuery", "React", "Express", "Node", "HTML5", "XML" "CSS3", "npm", "git", "Wordpress", "MongoDB", "SQL", "mySQL", "RegEx", "Photoshop", "Jira", "Linux"
+        ]
+    },
+    "experience": {
+        "headline": "Work Experience",
+        "list": [
+            {
+                "jobTitle": "Client Support Rep",
+                "company": "Change Healthcare",
+                "location": "Nashville, TN",
+                "startDate": "Aug 2016",
+                "endDate": "present",
+                "bullets": [
+                    "Support and administrate web applications delivering payment solutions to healthcare providers",
+                    "Troubleshoot, resolve, and manage client requests and relationships through Oracle’s Siebel CRM",
+                    "Research and provide analysis of financial and merchant reports including PayPal, Banctec, and EPX"
+                ]
+            },
+            {
+                "jobTitle": "Help Desk Technician",
+                "company": "Fresenius Medical Care",
+                "location": "Nashville, TN",
+                "startDate": "Dec 2015",
+                "endDate": "Aug 2016",
+                "bullets": [
+                    "Documented, responded and managed technical incidents and issues with BMC Remedy application",
+                    "Diagnosed, triaged, and troubleshot problems with computer hardware, applications, and peripherals",
+                    "Designed incident templates to automate ticketing, and reduced team-wide call handle time"
+                ]
+            },
+            {
+                "jobTitle": "Freelance Web Developer",
+                "company": "Various Clients",
+                "location": "Nashville, TN",
+                "startDate": "Jul 2015",
+                "endDate": "present",
+                "bullets": [
+                    "Marketing and selling web consulting services to small business clients",
+                    "Designed, developed, and deployed WordPress websites to DigitalOcean VPS"
+                ]
+            },
+            {
+                "jobTitle": "Tech Support Specialist",
+                "company": "Asurion",
+                "location": "Nashville, TN",
+                "startDate": "Mar 2014",
+                "endDate": "Jul 2015",
+                "bullets": [
+                    "Delivered distinguished experiences for users of a broad range of computers and devices",
+                    "Exceeded expectations in delivering prompt, engaging, and expert technical solutions",
+                    "Built web-based windows phone simulator for troubleshooting visual aide utilized by team"
+                ]
+            }
+        ]
+    },
+    "education": {
+        "headline": "Education",
+        "list": [
+            {
+                "schoolName": "Middle Tennessee State University",
+                "degree": "Bachelor of Science",
+                "major": "Recording Industry / Music Business",
+                "endDate": "2004"
+            }
+        ]
+    },
+    "training": {
+        "headline": "Certifications",
+        "list": [
+            {
+                "certName": "Microsoft Technology Associate",
+                "issuedBy": "Microsoft",
+                "endDate": "2015",
+                "description": "Software Development Fundamentals",
+                "link": ""
+            },
+            {
+                "certName": "Front End Developer",
+                "issuedBy": "freecodecamp.com",
+                "endDate": "2017",
+                "description": "#",
+                "link": "https://www.freecodecamp.com/davi3blu3/front-end-certification"
+            }
+        ]
+    }
+}
