@@ -2,10 +2,13 @@
   "name": "resumapi",
   "version": "1.0.0",
   "description": "Resume API",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "davi3blu3",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.22"
+  }
 }
